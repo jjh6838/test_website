@@ -1,8 +1,9 @@
 import streamlit as st
 view = [100, 150, 30]
-st.write('# Test Homepage of Jihyeon Jeong (Ji)')
+st.write('# Test Homepage')
+st.write('# Created by Jihyeon Jeong (Ji)')
 st.write('## Welcome to my homepage')
-st.write('### My name is Jihyeon Jeong and I am working as a data and knowledge management specialist at the Green Climate Fund. You will be able to see my academic and professional work here.')
+st.write('#### My name is Jihyeon Jeong and I am working as a data and knowledge management specialist at the Green Climate Fund. You will be able to see my academic and professional work here.')
 
 import pandas as pd
 import numpy as np
